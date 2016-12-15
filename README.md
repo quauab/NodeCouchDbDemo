@@ -1,6 +1,4 @@
-# NodeCouchDbDemo
-
-# Vue App Demo - Getting Started App
+# NodeJS CouchDB Demo
 
 ## Build Setup
 
